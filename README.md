@@ -1,4 +1,4 @@
-# Hi there, I'm Dipam - Mern Developer 👋 
+# Hi there, I'm Dipam - MERN Developer 👋 
 
 ```
 - 👋 Hi, I’m @Dipam Halder
