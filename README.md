@@ -1,9 +1,9 @@
 # Hi there, I'm Dipam - Mern Developer 👋 
 
 ```
-- 👋 Hi, I’m @__Dipam Halder__
-- 👀 I’m interested in __NODE JS REACT JS NEXT JS Python__
-- 🌱 I’m currently working on MEARN STACK Developer at __TCS__ ...
+- 👋 Hi, I’m @Dipam Halder
+- 👀 I’m interested in NODE JS REACT JS NEXT JS Python
+- 🌱 I’m currently working on MEARN STACK Developer at TCS...
 - 💞️ I’m looking to Drive New Modern Technology...
 - 🥅 2022 Goals: Learn more about web3
 - 📫 Any Query just mail me dipamhalder0@gmail.com...
@@ -18,8 +18,8 @@
 ### Connect with me:
 
 
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](https://youtube.com/codestackr#gh-light-mode-only)
+
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
