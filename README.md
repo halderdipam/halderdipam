@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[![website](![image](https://user-images.githubusercontent.com/43072215/192222852-7b87fd94-f1d7-4edc-9ee3-b766033716d9.png)](https://codestackr.com#gh-light-mode-only)
+[(![image](https://user-images.githubusercontent.com/43072215/192222852-7b87fd94-f1d7-4edc-9ee3-b766033716d9.png)](https://codestackr.com#gh-light-mode-only)
 
 
 ### Languages and Tools:
