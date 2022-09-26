@@ -21,6 +21,10 @@
 
 &nbsp;&nbsp;
 
+[![website](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dipamhalder0)
+
+&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
