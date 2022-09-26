@@ -3,10 +3,10 @@
 ```
 - 👋 Hi, I’m @Dipam Halder
 - 👀 I’m interested in NODE JS REACT JS NEXT JS Python
-- 🌱 I’m currently working on MEARN STACK Developer at TCS...
-- 💞️ I’m looking to Drive New Modern Technology...
+- 🌱 I’m currently working on MEARN STACK Developer at TCS.
+- 💞️ I’m looking to Drive New Modern Technology.
 - 🥅 2022 Goals: Learn more about web3
-- 📫 Any Query just mail me dipamhalder0@gmail.com...
+- 📫 Any Query just mail me dipamhalder0@gmail.com.
 ```
 
 
