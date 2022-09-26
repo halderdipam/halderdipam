@@ -36,16 +36,15 @@
 
 <br />
 <br />
----
+
 ### Most Used Language
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username={halderdipam}
-" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username={halderdipam}" />
 
 
 ---
 ### GitHub Stats
 <img align="left" alt="halderdipam GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=halderdipam&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
----
+
 
 ```javascript
 console.log('Hi Dipam..')
