@@ -36,6 +36,11 @@
 
 <br />
 <br />
+---
+### Most Used Language
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username={halderdipam}
+" />
+
 
 ---
 ### GitHub Stats
