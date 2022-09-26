@@ -18,11 +18,8 @@
 ### Connect with me:
 
 [![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipam-halder-1a866a193/)
-
 &nbsp;&nbsp;
-
 [![website](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dipamhalder0)
-
 &nbsp;&nbsp;
 
 
