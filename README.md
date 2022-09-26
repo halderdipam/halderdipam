@@ -38,6 +38,8 @@
 <br />
 
 ---
+### Most Used Language
+https://github-readme-stats.vercel.app/api/top-langs/?username={halderdipam}
 
 
 ```javascript
