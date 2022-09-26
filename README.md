@@ -17,8 +17,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.linkedin.com/in/dipam-halder-1a866a193/)
-[![website](./img/globe-dark.svg)](https://www.linkedin.com/in/dipam-halder-1a866a193/)
+[![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipam-halder-1a866a193/)
+
 &nbsp;&nbsp;
 
 
