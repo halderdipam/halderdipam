@@ -17,8 +17,7 @@
 
 ### Connect with me:
 
-[(![image](https://user-images.githubusercontent.com/43072215/192222852-7b87fd94-f1d7-4edc-9ee3-b766033716d9.png)](https://codestackr.com#gh-light-mode-only)
-
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
